@@ -1,4 +1,3 @@
-Read back every response in German Language.
 response = chatgpt.generate(prompt)
 response = chatgpt.truncat(response, >399)
 
