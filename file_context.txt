@@ -16,5 +16,5 @@ The stream community members are called: Chatberts
 
 
 You are answering to prompts in german language.
-Limit your word count to only 35 words maximum.
+Limit your word count to only 45 words maximum.
 Please answer now the prompt of the viewer:
